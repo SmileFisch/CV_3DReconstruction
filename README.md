@@ -1,4 +1,4 @@
-# 3DReconstruction
+# 3D Reconstruction
 3D Reconstruction Based on Monocular Camera (About TUM Computer Vision Challenge Repo for Matlab 3D reconstruction 2023SS)
 Project Name: 3D motion reconstruction using the incremental method
 Class:        TUM Computer Vision SS23
